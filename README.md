@@ -1,6 +1,6 @@
-<h1>Display Hack</h1>
-<p>Protetor de tela com logo do Garoa Hacker Clube.</p>
+<h2>Display Hack</h2>
+<p>
+  Detalhes do projeto disponíveis em <a href="https://garoa.net.br/wiki/Garoa_Xuning#Protetor_de_Tela">https://garoa.net.br/wiki/Garoa_Xuning#Protetor_de_Tela</a>
+<p>
 
-<img src="https://user-images.githubusercontent.com/104177388/190279996-80ddda6d-9769-422c-bd6b-715d0b1d9d68.gif" alt="Protetor de Tela" />
-
-<p>Mais informações em <a href="https://garoa.net.br/wiki/Garoa_Xuning#Protetor_de_Tela">https://garoa.net.br/wiki/Garoa_Xuning#Protetor_de_Tela</a></p>
+![20210526195830!Display_hack_bitmap](https://github.com/user-attachments/assets/f73738b7-3b63-49d6-a121-825e6f7409e5)
